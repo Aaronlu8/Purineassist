@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Purineassist/static/css/main.e6c13ad2.css",
-    "main.js": "/Purineassist/static/js/main.dbfe0787.js",
+    "main.js": "/Purineassist/static/js/main.c732b983.js",
     "static/js/453.11f1f778.chunk.js": "/Purineassist/static/js/453.11f1f778.chunk.js",
     "index.html": "/Purineassist/index.html",
     "main.e6c13ad2.css.map": "/Purineassist/static/css/main.e6c13ad2.css.map",
-    "main.dbfe0787.js.map": "/Purineassist/static/js/main.dbfe0787.js.map",
+    "main.c732b983.js.map": "/Purineassist/static/js/main.c732b983.js.map",
     "453.11f1f778.chunk.js.map": "/Purineassist/static/js/453.11f1f778.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.dbfe0787.js"
+    "static/js/main.c732b983.js"
   ]
 }
